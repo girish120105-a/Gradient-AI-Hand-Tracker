@@ -7,6 +7,7 @@
 
 ---
 
+
 ## Project Goal
 I built a real-time hand gesture recognizer using **OpenCV** and Python. 
 My goal was to create a system that detects gestures using **pure geometric logic** rather than relying on heavy, pre-built AI models like MediaPipe. This approach helps demonstrate a clear understanding of image processing fundamentals.
