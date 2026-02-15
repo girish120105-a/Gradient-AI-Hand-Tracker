@@ -1,6 +1,12 @@
 # Hand Gesture Recognition (Computer Vision)
 ### Gradient Tech Recruitment Task - 2026
 
+## 🎥 Demo & Output
+* **[Click Here to Watch the Demo Video](https://drive.google.com/file/d/1B8FNFlVi_P2Mr9khG5IzU8dSEJfVnDpJ/view?usp=sharing)**
+* **[View Project Screenshot](https://drive.google.com/file/d/1qyI92N6mvDdwOkgMOMOPJ3xdgBNBOjwQ/view?usp=sharing)**
+
+---
+
 ## Project Goal
 I built a real-time hand gesture recognizer using **OpenCV** and Python. 
 My goal was to create a system that detects gestures using **pure geometric logic** rather than relying on heavy, pre-built AI models like MediaPipe. This approach helps demonstrate a clear understanding of image processing fundamentals.
